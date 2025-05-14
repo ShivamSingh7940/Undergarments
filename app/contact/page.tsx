@@ -25,10 +25,10 @@ export default function ContactPage() {
             </a>
           </div>
 
-          <div className="flex items-start">
+          {/* <div className="flex items-start">
             <span className="w-40 font-semibold">Contact Person:</span>
             <span>AHMAD</span>
-          </div>
+          </div> */}
 
           <div className="flex items-start">
             <span className="w-40 font-semibold">Address:</span>
